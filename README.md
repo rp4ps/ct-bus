@@ -1,4 +1,4 @@
-# Public Transport Route Planning: When Connectivity and Commuting Demand Both Matter
+# Public Transport Planning: When Transit Network Connectivity Meets Commuting Demand
 This repo holds the code and dataset for the reproducibility of CT-Bus.
 
 ## Running
